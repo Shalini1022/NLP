@@ -1,0 +1,11 @@
+Document 1,Document 2,Similarity (%),Status
+student_A.txt,student_B.txt,46.7,Low Similarity
+student_B.txt,student_C.txt,21.14,Low Similarity
+student_C.txt,student_D.txt,10.05,Low Similarity
+student_A.txt,student_C.txt,9.44,Low Similarity
+student_C.txt,student_E.txt,7.75,Low Similarity
+student_D.txt,student_E.txt,5.57,Low Similarity
+student_B.txt,student_E.txt,4.29,Low Similarity
+student_A.txt,student_E.txt,3.47,Low Similarity
+student_B.txt,student_D.txt,2.13,Low Similarity
+student_A.txt,student_D.txt,0.95,Low Similarity
